@@ -53,7 +53,7 @@ class Clothing extends Product {
     <a href="${this.sizeChartLink}" target = "_blank">Size Chart</a>
     `;
   }
-}
+};
 
 export const products = [
   {
